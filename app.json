@@ -1,0 +1,9 @@
+{
+  "name": "pushwooshandroidbroken",
+  "displayName": "pushwooshandroidbroken"
+  	"packagerOpts": {
+    "projectRoots": "",
+    "assetExts": ["ttf"],
+    "config": "rn-cli.config.js"
+    }
+}
